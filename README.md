@@ -18,3 +18,5 @@ The app uses the pre-trained BERT model for sequence classification to predict t
 The BERT model and tokenizer are loaded using the AutoTokenizer and AutoModelForSequenceClassification classes from the Transformers library. The generate_tf_question function tokenizes the input text, makes a prediction using the BERT model, and generates a true/false question based on the predicted label.
 
 The app is built using Streamlit, which provides a simple way to create web apps with Python. The app includes a text area for entering input text, a "Generate" button to generate the true/false question, and a text area for displaying the generated question.
+
+![image](https://user-images.githubusercontent.com/87160848/224266961-4d1d733a-0f5e-44dc-ad75-51d70043a0f4.png)
