@@ -19,4 +19,7 @@ The BERT model and tokenizer are loaded using the AutoTokenizer and AutoModelFor
 
 The app is built using Streamlit, which provides a simple way to create web apps with Python. The app includes a text area for entering input text, a "Generate" button to generate the true/false question, and a text area for displaying the generated question.
 
+![image](https://user-images.githubusercontent.com/87160848/224267576-66b958c7-e42d-4aa7-b290-bf80f609fff7.png)
+
+
 ![image](https://user-images.githubusercontent.com/87160848/224266961-4d1d733a-0f5e-44dc-ad75-51d70043a0f4.png)
