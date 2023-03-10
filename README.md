@@ -23,7 +23,7 @@ The app is built using Streamlit, which provides a simple way to create web apps
 to view this Streamlit app on a browser, run it with the following
   command:
 
-    '''streamlit run C:\Users\garim\TFGenerator\codeTFG.py [ARGUMENTS]'''
+    '''streamlit run [file path] [ARGUMENTS]'''
 ![image](https://user-images.githubusercontent.com/87160848/224267576-66b958c7-e42d-4aa7-b290-bf80f609fff7.png)
 
 
